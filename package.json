@@ -1,0 +1,30 @@
+{
+  "name": "tetris",
+  "version": "1.0.0",
+  "description": "Tetris game based on a tutorial found on youtube",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aguasvivasclass/tetris.git"
+  },
+  "keywords": [
+    "tetris",
+    "retro",
+    "game",
+    "nes",
+    "gbc",
+    "gb"
+  ],
+  "author": "Jose Aguasvivas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aguasvivasclass/tetris/issues"
+  },
+  "homepage": "https://github.com/aguasvivasclass/tetris#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
